@@ -1,7 +1,7 @@
 # GLug'at-1.91
                                  ☪     Bismillohir Rahmonir Rahiym     ☪
                                  "In the name of Allah, Most Gracious, Most Merciful"
-Turkiston Dasturlari (c) 2015
+Turkiston Dasturlari (c) 2015.
 Muqobil Dasturlar To'plami (c) 2006-2012.
 Released under the terms of GPL version 2.
 
