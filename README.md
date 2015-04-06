@@ -17,3 +17,6 @@ thesaurus. All files should be located in working directory where application is
 You may change it in source code by entering absolute path to them.
 When user enters word, application first searches it in list if not found 
 then it looks up it in file. Whole words or part of them can be entered.
+
+To download English to Turkish dictionary data files use the following address:
+ http://sourceforge.net/projects/freedict/files/English%20-%20Turkish/0.2.1/freedict-eng-tur-0.2.1.src.tar.bz2/download
