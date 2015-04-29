@@ -1,4 +1,4 @@
-# GLug'at-1.91
+# GLuğat-1.91
                                  ☪    بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم ☪
                                  "In the name of Allah, Most Gracious, Most Merciful"
 Turkiston Dasturlari (c) 2015.
