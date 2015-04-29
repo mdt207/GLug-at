@@ -5,12 +5,12 @@ Turkiston Dasturlari (c) 2015.
 Muqobil Dasturlar To'plami (c) 2006-2012.
 Released under the terms of GPL version 2.
 
-About GLug'at-1.91 (reanimated)
+About GLuğat-1.91 (reanimated)
 
 Purpose: Dictionary application.
 
 Implementation:
-GLug'at was written using C++ STL and GTK+-3.0 libraries. 
+GLuğat was written using C++ STL and GTK+-3.0 libraries. 
 It uses four data files(in fact five). One of them consists list of english words, 
 and another one translations, third is for phonetic transcriptions and the last one is
 thesaurus. All files should be located in working directory where application is located or 
